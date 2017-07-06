@@ -13,4 +13,4 @@ title = "About Yameng Liu"
 - 65827698@qq.com
 - Wechat: ameng2001
 
-[//]: # (![wechat_qrcode](http://olz1di9xf.bkt.clouddn.com/wechat-qrcode-20170627.jpg))
+![wechat_qrcode](http://osnp0r3pt.bkt.clouddn.com/WechatIMG12.jpeg)
