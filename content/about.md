@@ -4,7 +4,7 @@ title = "About Yameng Liu"
 
 +++
 
-[//]: # (![myself](http://olz1di9xf.bkt.clouddn.com/jimmy.jpg))
+![myself](http://osnp0r3pt.bkt.clouddn.com/717174.jpg)
 
 # About me
 
