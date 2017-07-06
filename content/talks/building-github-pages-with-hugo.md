@@ -2,7 +2,7 @@
 draft = false
 date = "2017-03-17T22:08:25+08:00"
 title = "格式记录"
-Tags = ["hugo","github","web"]
+Tags = ["hugo","github","web","travel"]
 +++
 
 ![风景](http://olz1di9xf.bkt.clouddn.com/20151005061.jpg)
