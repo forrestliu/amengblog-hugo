@@ -1,11 +1,11 @@
 +++
 date = "2017-02-22T16:56:04+08:00"
-title = "My github pages"
+title = "这是一些动手的项目"
 draft = false
 
 +++
 
-# My Open Source Project
-- [blog](http://github.com/forrestliu/amengblog-hugo) - personal blog.
+# 这是一些动手的项目
+- [博客](http://github.com/forrestliu/amengblog-hugo) - personal blog.
 
 

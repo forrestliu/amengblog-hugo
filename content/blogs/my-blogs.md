@@ -1,10 +1,9 @@
 +++
 date = "2017-02-22T16:56:04+08:00"
-title = "My blog pages"
+title = "这是技术博客"
 draft = false
 
 +++
 
-# My blogs 
-- 001 blog
-- 002 blog
+# 技术博客汇总 
+- 001 这是技术博客
