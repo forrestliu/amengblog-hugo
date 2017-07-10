@@ -1,13 +1,13 @@
 +++
 draft = false
 date = "2017-03-17T22:08:25+08:00"
-title = "格式记录"
-Tags = ["hugo","github","web","travel"]
+title = "格式规范"
+Tags = ["architecture","server","game development","life"]
 +++
 
-![风景](http://olz1di9xf.bkt.clouddn.com/20151005061.jpg)
+![风景](http://osnp0r3pt.bkt.clouddn.com/717174.jpg)
 
-*（题图：澳大利亚 Jan 10,2017）*
+*（题图：题图示例 Jan 10,2017）*
 
 > 这是一种字体**另一种字体**
 
