@@ -1,7 +1,7 @@
 +++
 draft = false
-date = "2017-07-08T22:08:25+08:00"
-title = "架构培训系列001-高性能服务开发"
+date = "2017-07-10T10:04:00+08:00"
+title = "架构培训系列002-服务框架及分布式原理"
 Tags = ["architecture","server","socket","develop"]
 +++
 
