@@ -12,7 +12,6 @@ Tags = ["management","CTO"]
 ​						 《初创互联网X公司技术架构规划--DOP》
 
 ![sliceimg](http://osrjkumus.bkt.clouddn.com/dop/%E5%B9%BB%E7%81%AF%E7%89%8701.jpg)
-![sliceimg](http://osrjkumus.bkt.clouddn.com/dop/%E5%B9%BB%E7%81%AF%E7%89%8702.jpg)
 ![sliceimg](http://osrjkumus.bkt.clouddn.com/dop/%E5%B9%BB%E7%81%AF%E7%89%8703.jpg)
 ![sliceimg](http://osrjkumus.bkt.clouddn.com/dop/%E5%B9%BB%E7%81%AF%E7%89%8704.jpg)
 ![sliceimg](http://osrjkumus.bkt.clouddn.com/dop/%E5%B9%BB%E7%81%AF%E7%89%8705.jpg)
